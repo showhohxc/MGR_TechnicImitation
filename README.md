@@ -1,7 +1,6 @@
 # MGR_TechnicImitation
 Metal Gear Rising Imitation Project using Unity
 
-https://youtu.be/dRMa3uiUSvA?si=0jz6ftRAWWWNhEbV
 > Youtube
 [![Video Label]((https://img.youtu.be/vi/dRMa3uiUSvA?si=0jz6ftRAWWWNhEbV/0.jpg)](https://youtu.be/dRMa3uiUSvA?si=0jz6ftRAWWWNhEbV)
 ▲ 위의 Metal Gear Rising의 Cutting 모드를 모작
