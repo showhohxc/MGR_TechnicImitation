@@ -2,7 +2,7 @@
 Metal Gear Rising Imitation Project using Unity
 
 > Youtube
-[![Video Label](http://img.youtube.com/vi/EhScbQoaLFQ?si=fyFgXkA2caZVQnON/0.jpg)](https://youtu.be/dRMa3uiUSvA?si=0jz6ftRAWWWNhEbV)
+[![Video Label](http://img.youtube.com/vi/fyFgXkA2caZVQnON/0.jpg)](https://youtu.be/0jz6ftRAWWWNhEbV)
 ▲ 위의 Metal Gear Rising의 Cutting 모드를 모작
 
 [![Video Label](http://img.youtube.com/vi/Si52V8eWYmU/0.jpg)](https://youtu.be/Si52V8eWYmU)
